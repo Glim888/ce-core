@@ -1,1 +1,0 @@
-ce_destroy_components();

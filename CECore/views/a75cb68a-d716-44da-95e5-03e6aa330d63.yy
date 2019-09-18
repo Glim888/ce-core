@@ -21,7 +21,15 @@
         "e89af42c-c738-48cd-9caf-81c92fb8b9f2",
         "4d6d315c-3e54-4cd9-bdc1-1f252277866c",
         "3f13d01c-c3d6-4a3c-9dce-e76facdb2816",
-        "8abe76f1-b289-4b58-8f5f-0f2b74048710"
+        "8abe76f1-b289-4b58-8f5f-0f2b74048710",
+        "1fc5232f-a612-4e78-8e96-53b8a0429bfa",
+        "aee401ee-a41e-4471-a1f3-d54db53e40cd",
+        "81ec2f42-648e-45a4-a2a7-f92279fe286a",
+        "1267aa2d-1597-4956-b13e-a6ee822870c6",
+        "f8ca9018-b80f-42f5-87db-2730ef00a671",
+        "4bd5d717-45c2-4b98-94c7-4dd77a5304fb",
+        "2a484949-d754-4e21-b6d7-e30d48510e29",
+        "551f4e25-e831-457c-a01b-faba6156ef61"
     ],
     "filterType": "GMScript",
     "folderName": "Class",

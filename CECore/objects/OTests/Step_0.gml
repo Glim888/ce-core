@@ -1,1 +1,0 @@
-ce_call_components("onUpdate");
