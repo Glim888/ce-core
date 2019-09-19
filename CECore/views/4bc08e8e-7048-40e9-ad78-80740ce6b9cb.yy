@@ -5,8 +5,10 @@
     "name": "4bc08e8e-7048-40e9-ad78-80740ce6b9cb",
     "children": [
         "260b6ff8-32ce-4bf4-8a0d-20937593bfb4",
+        "359f4555-6141-4964-8404-69876730d37e",
         "239eed36-ad1f-4fef-b0d0-e486b0852371",
-        "d948017c-04c0-4c86-99bb-3e61c99b59e6"
+        "d948017c-04c0-4c86-99bb-3e61c99b59e6",
+        "062957dd-f536-4839-8744-edf1bd863458"
     ],
     "filterType": "GMScript",
     "folderName": "GUI",

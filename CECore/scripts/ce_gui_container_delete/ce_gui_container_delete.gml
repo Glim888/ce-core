@@ -1,5 +1,5 @@
-/// @func ce_gui_container_delete(id)
-/// @param {real} id
+/// @func ce_gui_container_delete(container)
+/// @param {real} container
 var _container = argument0;
 
 ds_list_destroy(ce_get_prop(_container, "widgets"));

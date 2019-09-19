@@ -24,5 +24,10 @@ ce_class_define_properties(_containerClass, [
 	"paddingTop", 0,
 	"paddingRight", 0,
 	"paddingBottom", 0,
+	// Methods,
+	"_init", ce_gui_container_init,
+	"add_widget", ce_gui_container_add_widget,
+	"draw", ce_gui_container_draw,
+	"draw_widgets", ce_gui_container_draw_widgets,
 ]);
 ce_class_define_destructor(_containerClass, ce_gui_container_delete);

@@ -50,5 +50,7 @@ ce_class_define_properties(_widgetClass, [
 	"backgroundY", 0,
 	"backgroundRot", 0,
 	// Methods
-	"draw", undefined,
+	"_init", undefined,
+	"draw", ce_gui_widget_draw,
+	"draw_background", ce_gui_widget_draw_background,
 ]);
