@@ -21,7 +21,7 @@
 /// show_debug_message(ce_string_format("Hello, ${username}!", _data));
 /// ds_map_destroy(_data);
 /// ```
-// TODO Add support for `other.` etc?
+// TODO: Add support for `other.` etc?
 var _stringOriginal = argument[0]
 var _str = _stringOriginal;
 var _data = (argument_count > 1) ? argument[1] : undefined;

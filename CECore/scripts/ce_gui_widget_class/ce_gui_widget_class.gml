@@ -3,8 +3,8 @@ CE_PRAGMA_ONCE;
 
 var _widgetClass = ce_class_create();
 ce_class_define_properties(_widgetClass, [
-	"gui", 0,
-	"parent", 0,
+	"gui", noone,
+	"parent", noone,
 	"x", 0,
 	"y", 0,
 	"width", 0,
@@ -51,6 +51,7 @@ ce_class_define_properties(_widgetClass, [
 	"backgroundRot", 0,
 	// Methods
 	"_init", undefined,
+	"update", undefined,
 	"draw", ce_gui_widget_draw,
 	"draw_background", ce_gui_widget_draw_background,
 ]);

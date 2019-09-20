@@ -17,6 +17,7 @@ ce_class_define_properties(_root, [
 	// Methods,
 	"_init", ce_gui_root_init,
 	"add_widget", ce_gui_root_add_widget,
+	"update", ce_gui_root_update,
 	"draw", ce_gui_root_draw,
 	"get_display_width", ce_gui_root_get_display_width,
 	"get_display_height", ce_gui_root_get_display_height,

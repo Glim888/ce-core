@@ -50,7 +50,7 @@ if (argument_count <= 3
 
 _comparatorScript = argument[3];
 
-// TODO Optimize list union.
+// TODO: Optimize list union.
 var _size = ds_map_size(_keyValues);
 var _valueCurrent = ds_map_find_first(_keyValues);
 

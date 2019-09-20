@@ -231,6 +231,14 @@
             }
         },
         {
+            "Key": "0bc22a78-06d2-48a1-a0ca-14ce6e3d72a3",
+            "Value": {
+                "id": "64c66fcf-ee28-4381-9a8c-fee67bd30212",
+                "resourcePath": "scripts\\ce_gui_mouse_in_rect\\ce_gui_mouse_in_rect.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "0bf576ca-2ce6-431d-82ec-499079ccb6fc",
             "Value": {
                 "id": "b20ef912-aa35-43f3-883d-6820e6eb0eae",
@@ -868,6 +876,14 @@
                 "id": "cdbae920-f1c7-48fb-9b10-c6bda68c66a0",
                 "resourcePath": "views\\359f4555-6141-4964-8404-69876730d37e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "35a443e8-aaec-4071-91ef-e78cea3f0a83",
+            "Value": {
+                "id": "c90b8465-404f-49f1-8ca7-fb03f5a940d5",
+                "resourcePath": "scripts\\ce_gui_update_position\\ce_gui_update_position.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -2447,6 +2463,14 @@
             }
         },
         {
+            "Key": "8a909ec3-074b-4cae-a7ae-6f981e4c904d",
+            "Value": {
+                "id": "1abda07b-f4b3-498f-8084-d5eea0175ed3",
+                "resourcePath": "scripts\\ce_gui_root_update\\ce_gui_root_update.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "8a936b8f-bcec-4f78-942d-6a729084003b",
             "Value": {
                 "id": "d400f97d-adb3-49b8-8ab0-c2eb1f142412",
@@ -3375,6 +3399,14 @@
             }
         },
         {
+            "Key": "bdafa5e5-111d-4c12-b1f5-da4fa1f13cbd",
+            "Value": {
+                "id": "1a0d5afe-39d6-4445-b78c-13e281ed11d4",
+                "resourcePath": "scripts\\ce_gui_set_rectangle\\ce_gui_set_rectangle.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "be33ffa9-f2f2-4e6b-adc2-7e81a510f6e4",
             "Value": {
                 "id": "4ecaa2c4-a6a0-4b72-a7b1-508c20a36fbb",
@@ -3427,6 +3459,14 @@
             "Value": {
                 "id": "44c2f4d9-4437-4353-befe-e63909855f42",
                 "resourcePath": "scripts\\ce_ds_list_intersect\\ce_ds_list_intersect.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "c0720778-d07c-4c17-976d-7c4973a4a5ea",
+            "Value": {
+                "id": "0c1bc263-167a-4353-9304-157ea9c79d77",
+                "resourcePath": "scripts\\ce_gui_mouse_x\\ce_gui_mouse_x.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -4051,6 +4091,14 @@
             "Value": {
                 "id": "b2ad5e3e-43f8-4cf9-ac3e-2b3b7fe72601",
                 "resourcePath": "scripts\\ce_color_from_argb\\ce_color_from_argb.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "e6f50fe9-9a79-456c-9ade-8f610aaa0236",
+            "Value": {
+                "id": "bad1c17c-2388-4a33-a712-acfa823012c2",
+                "resourcePath": "scripts\\ce_gui_mouse_y\\ce_gui_mouse_y.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -4886,11 +4934,17 @@
         "8f62fae7-0a69-4b9f-b7a2-d71b60dc90a6",
         "64023118-b412-4b2e-85fd-b0b3cd113f71",
         "ae12a365-9374-4f36-b018-d470113fb8c0",
+        "8a909ec3-074b-4cae-a7ae-6f981e4c904d",
         "f2b298bd-7557-41d8-b0c8-7f7b8994d8dd",
         "5d43dc4b-5836-46b1-8798-2f698f8f30c5",
         "8eb42ffa-59c9-4cbc-84ef-96ed22a413eb",
         "d948017c-04c0-4c86-99bb-3e61c99b59e6",
-        "062957dd-f536-4839-8744-edf1bd863458"
+        "062957dd-f536-4839-8744-edf1bd863458",
+        "0bc22a78-06d2-48a1-a0ca-14ce6e3d72a3",
+        "c0720778-d07c-4c17-976d-7c4973a4a5ea",
+        "e6f50fe9-9a79-456c-9ade-8f610aaa0236",
+        "bdafa5e5-111d-4c12-b1f5-da4fa1f13cbd",
+        "35a443e8-aaec-4071-91ef-e78cea3f0a83"
     ],
     "tutorial": ""
 }
