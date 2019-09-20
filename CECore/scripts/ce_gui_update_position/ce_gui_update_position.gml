@@ -99,11 +99,11 @@ if (_contentStyle == CE_EGuiContentStyle.Grid)
 }
 
 var _widgets = ce_get_prop(_widget, "widgets");
-var _widgetCount = ds_list_size(_widgets);
+var _index = 0;
 
-for (var i = 0; i < _widgetCount; ++i)
+repeat (ds_list_size(_widgets))
 {
-	var _w = _widgets[| i];
+	var _w = _widgets[| _index++];
 
 	if (!ce_get_prop(_widget, "visible"))
 	{

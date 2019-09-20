@@ -295,6 +295,14 @@
             }
         },
         {
+            "Key": "10752119-ea6a-4bbf-af2d-b128eda87993",
+            "Value": {
+                "id": "d4039964-6311-45ad-afeb-8ddd91625e2f",
+                "resourcePath": "views\\10752119-ea6a-4bbf-af2d-b128eda87993.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "1241d335-f087-4f7a-92d3-051eb7020529",
             "Value": {
                 "id": "6dc95c58-f6db-4509-9aa3-bb9fc7fe844c",
@@ -2631,6 +2639,14 @@
             }
         },
         {
+            "Key": "92df3992-f600-4e03-b7e0-60b25da181ac",
+            "Value": {
+                "id": "236f014b-8d9f-4428-8049-35ac75b3bdd7",
+                "resourcePath": "scripts\\ce_window_resize_tracker_component_on_update\\ce_window_resize_tracker_component_on_update.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "93566aad-c3b3-48a9-8fa7-9c5ee19f74ac",
             "Value": {
                 "id": "10133d73-e376-4b49-ab8f-4630aa099599",
@@ -3551,6 +3567,14 @@
             }
         },
         {
+            "Key": "c65915e8-13a9-4b03-bae2-30406f39b3e1",
+            "Value": {
+                "id": "75c1204c-9717-45c9-bb27-ace0a98b412a",
+                "resourcePath": "scripts\\ce_window_resize_tracker_component_config\\ce_window_resize_tracker_component_config.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "c676e535-f3f9-484b-a19d-c8d923ee16e8",
             "Value": {
                 "id": "490c59a0-cb7d-42d1-baeb-c2b9a96725de",
@@ -3847,6 +3871,14 @@
             }
         },
         {
+            "Key": "d94ee707-1b72-46df-9fea-147fe785a01e",
+            "Value": {
+                "id": "7ad3393c-5572-48bb-8c56-9ef88f5f9ef6",
+                "resourcePath": "scripts\\ce_gui_init_global\\ce_gui_init_global.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "d951c53c-577e-40d3-93be-1f2a5fcd2de4",
             "Value": {
                 "id": "eab767a4-6f56-4351-a6a0-7ce515ce8938",
@@ -4028,6 +4060,14 @@
                 "id": "9d8260fc-79cd-4e8f-a174-c613f4b9c2e0",
                 "resourcePath": "options\\android\\options_android.yy",
                 "resourceType": "GMAndroidOptions"
+            }
+        },
+        {
+            "Key": "e47c6d4b-5a22-4da0-8bc3-feff5147227d",
+            "Value": {
+                "id": "6e714cf8-cff8-4f1e-af31-c428bfce72f4",
+                "resourcePath": "scripts\\ce_window_resize_tracker_component\\ce_window_resize_tracker_component.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -4548,6 +4588,9 @@
         "aa6455a9-bc67-4aed-9ab6-02a101c6b231",
         "e09264b7-53f3-4c02-ae90-39372693bb24",
         "e47c7bcd-c9ad-4c80-9a4c-9236c7b4ed31",
+        "e47c6d4b-5a22-4da0-8bc3-feff5147227d",
+        "c65915e8-13a9-4b03-bae2-30406f39b3e1",
+        "92df3992-f600-4e03-b7e0-60b25da181ac",
         "eaa23723-9572-40c5-9556-b5f24b3e1c92",
         "a3f1a1e9-ccca-44d1-adad-23ece7da495c",
         "d3cc9ea4-bd9f-4c85-b193-70f0362105e2",
@@ -4940,6 +4983,7 @@
         "8eb42ffa-59c9-4cbc-84ef-96ed22a413eb",
         "d948017c-04c0-4c86-99bb-3e61c99b59e6",
         "062957dd-f536-4839-8744-edf1bd863458",
+        "d94ee707-1b72-46df-9fea-147fe785a01e",
         "0bc22a78-06d2-48a1-a0ca-14ce6e3d72a3",
         "c0720778-d07c-4c17-976d-7c4973a4a5ea",
         "e6f50fe9-9a79-456c-9ade-8f610aaa0236",
