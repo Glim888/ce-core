@@ -1,10 +1,6 @@
 /// @func ce_gui_config()
 /// @desc A configuration script for the GUI system.
 
-/// @macro {real} The number of the user event to be executed when a GUI
-/// event is triggered.
-#macro CE_EV_BIND_GUI 1
-
 /// @enum Enumeration of possible background image styles.
 enum CE_EGuiBackgroundStyle
 {

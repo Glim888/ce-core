@@ -1,7 +1,7 @@
 /// @func ce_gui_widget_class()
 CE_PRAGMA_ONCE;
 
-var _widgetClass = ce_class_create(ce_event_listener_class);
+var _widgetClass = ce_class_create();
 ce_class_define_properties(_widgetClass, [
 	"gui", 0,
 	"parent", 0,
@@ -10,7 +10,7 @@ ce_class_define_properties(_widgetClass, [
 	"width", 0,
 	"height", 0,
 	"position", 0,
-	"visible", 0,
+	"visible", true,
 	// Pivot
 	"pivotX", 0,
 	"pivotY", 0,

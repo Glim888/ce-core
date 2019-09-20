@@ -11,7 +11,7 @@ if (!ce_get_prop(_root, "visible"))
 var _font = draw_get_font();
 
 global.__ceGuiCurrent = _root;
-ce_gui_container_draw(_root);
+ce_super(_root, "draw");
 
 #region Proxy input
 var _focused = ce_get_prop(_root, "widgetFocused");

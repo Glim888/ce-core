@@ -1,7 +1,7 @@
 /// @func ce_gui_root_class()
 CE_PRAGMA_ONCE;
 
-var _root = ce_class_create(ce_gui_container_create);
+var _root = ce_class_create(ce_gui_container_class);
 ce_class_define_properties(_root, [
 	"widgetHovered", noone,
 	"widgetDragging", noone,
