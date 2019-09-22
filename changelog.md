@@ -10,6 +10,7 @@
   * `ce_sub_prop` subtracts a value from a property and returns the result.
 * Added new data structure "bucket" which is a map that holds values of same key in a list.
 * Added new component `ce_event_listener_component` which enables binding of multiple scripts (listeners) to custom events.
+* Added new component `ce_window_resize_tracker_component` which triggers a custom event `CE_EV_WINDOW_RESIZE` when a window is resized.
 * Added new script `ce_instance_exists` which checks whether an instance of a class exists.
 * Added new script `ce_get_event_retval` which returns the value returned from a custom event.
 * Added new script `ce_snap` which floors value to multiples of step.
