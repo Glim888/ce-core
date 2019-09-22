@@ -13,4 +13,6 @@
 * Added new script `ce_instance_exists` which checks whether an instance of a class exists.
 * Added new script `ce_get_event_retval` which returns the value returned from a custom event.
 * Added new script `ce_snap`.
+* Added new scripts `ce_array_get`, `ce_ds_list_get`, `ce_ds_map_get`.
+* Added new script `ce_object_is`.
 * **Removed** script `ce_timer_component_create` which was left in the extension by mistake and it is not required for proper functionality of the timer component.
